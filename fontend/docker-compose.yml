@@ -1,0 +1,11 @@
+services:
+  realtimetest:
+    image: erica_chat_web
+    container_name: erica_chat_web
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 4000:4000

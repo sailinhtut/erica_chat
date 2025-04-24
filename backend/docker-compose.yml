@@ -1,0 +1,11 @@
+services:
+  server:
+    image: erica_chat_backend
+    container_name: erica_chat_backend
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 4010:4010
