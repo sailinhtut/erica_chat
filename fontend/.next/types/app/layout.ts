@@ -1,4 +1,4 @@
-// File: C:\Users\pc\OneDrive\Desktop\realtime_test\web\realtime_test\src\app\layout.tsx
+// File: C:\Users\pc\OneDrive\Desktop\realtime_test\erica_chat\fontend\src\app\layout.tsx
 import * as entry from '../../../src/app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

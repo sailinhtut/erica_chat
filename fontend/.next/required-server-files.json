@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\pc\\OneDrive\\Desktop\\realtime_test\\web\\realtime_test",
+    "outputFileTracingRoot": "C:\\Users\\pc\\OneDrive\\Desktop\\realtime_test\\erica_chat\\fontend",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -279,10 +279,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\pc\\OneDrive\\Desktop\\realtime_test\\web\\realtime_test"
+      "root": "C:\\Users\\pc\\OneDrive\\Desktop\\realtime_test\\erica_chat\\fontend"
     }
   },
-  "appDir": "C:\\Users\\pc\\OneDrive\\Desktop\\realtime_test\\web\\realtime_test",
+  "appDir": "C:\\Users\\pc\\OneDrive\\Desktop\\realtime_test\\erica_chat\\fontend",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
