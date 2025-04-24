@@ -109,8 +109,8 @@ app.post('/clear', authHandler, (req, res) => {
 const server = http.createServer(app);
 const io = new Server(server, {
 	cors: {
-		// origin: 'https://erica.sailinhtut.dev',
-		origin: 'http://localhost:4000',
+		origin: 'https://erica.sailinhtut.dev',
+		// origin: 'http://localhost:4000',
 		methods: ['GET', 'POST'],
 	},
 });
