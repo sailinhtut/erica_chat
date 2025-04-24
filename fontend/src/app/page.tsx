@@ -5,7 +5,8 @@ import { useEffect, useRef, useState } from 'react';
 import { io } from 'socket.io-client';
 import { UAParser } from 'ua-parser-js';
 
-const socket = io('http://localhost:4010');
+// const socket = io('http://localhost:4010');
+const socket = io('http://erica.sailinhtut.dev/serice:4010');
 
 export default function Home() {
 	const [message, setMessage] = useState('');
